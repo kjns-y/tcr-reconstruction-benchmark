@@ -1,0 +1,9 @@
+[submodule "repo/TRUST4"]
+	path = repo/TRUST4
+	url = https://github.com/liulab-dfci/TRUST4.git
+[submodule "repo/Benchmarking_TCR_Construction"]
+	path = repo/Benchmarking_TCR_Construction
+	url = https://github.com/WanluLiuLab/Benchmarking_TCR_Construction.git
+[submodule "repo/yasim-sctcr"]
+	path = repo/yasim-sctcr
+	url = https://github.com/WanluLiuLab/yasim-sctcr.git

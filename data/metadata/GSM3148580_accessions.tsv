@@ -1,0 +1,3 @@
+gsm	title	experiment	run	spots	bases	size_MB	library_layout	platform	model	download_path
+GSM3148580	BC09_TUMOR1_TCR	SRX4108609	SRR7191916	45101611	13620686522	6607	PAIRED	ILLUMINA	Illumina HiSeq 2500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191916.sralite.1
+GSM3148580	BC09_TUMOR1_TCR	SRX4108609	SRR7191917	46262709	13971338118	6794	PAIRED	ILLUMINA	Illumina HiSeq 2500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191917.sralite.1

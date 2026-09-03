@@ -1,0 +1,9 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)	sum_n
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191896_1.fastq.gz	FASTQ	DNA	45638026	1232226702	27	27.0	27	27	27	27	0	27	1	97	96	28.36	48.09	23067
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191896_2.fastq.gz	FASTQ	DNA	45638026	4518164574	99	99.0	99	99	99	99	0	99	1	89	86	22.57	51.88	5493682
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191897_1.fastq.gz	FASTQ	DNA	44257249	1194945723	27	27.0	27	27	27	27	0	27	1	98	96	28.68	48.11	23977
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191897_2.fastq.gz	FASTQ	DNA	44257249	4381467651	99	99.0	99	99	99	99	0	99	1	89	87	22.70	51.80	5623157
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191898_1.fastq.gz	FASTQ	DNA	42187575	1139064525	27	27.0	27	27	27	27	0	27	1	98	96	28.76	48.14	21528
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191898_2.fastq.gz	FASTQ	DNA	42187575	4176569925	99	99.0	99	99	99	99	0	99	1	90	87	23.00	51.85	4373520
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191899_1.fastq.gz	FASTQ	DNA	44085092	1190297484	27	27.0	27	27	27	27	0	27	1	97	96	28.40	48.11	21237
+/mnt/volume2/YEEE/tcr_reconstruction_benchmark/data/raw/BC09_GEX/SRR7191899_2.fastq.gz	FASTQ	DNA	44085092	4364424108	99	99.0	99	99	99	99	0	99	1	90	87	22.93	51.78	4252734

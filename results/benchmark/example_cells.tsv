@@ -1,0 +1,31 @@
+category	barcode	chain	has_truth	trust4_has_prediction	cdr3_correct_x	v_correct_x	j_correct_x	trust4_astcr_correct	truth_receptors	trust4_predicted_receptors	mixcr_has_prediction	cdr3_correct_y	v_correct_y	j_correct_y	mixcr_astcr_correct	mixcr_predicted_receptors
+both_correct	AAACCTGAGCAGACTG	TRB	True	True	True	True	True	True	TRBV2|TRBJ2-2|CATTRDGVPTGELFF	TRBV2|TRBJ2-2|CATTRDGVPTGELFF	True	True	True	True	True	TRBV2|TRBJ2-2|CATTRDGVPTGELFF
+both_correct	AAACCTGAGTTAAGTG	TRB	True	True	True	True	True	True	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF	True	True	True	True	True	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF
+both_correct	AAACCTGCAACACCCG	TRB	True	True	True	True	True	True	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF	True	True	True	True	True	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF
+both_correct	AAACCTGGTAGCACGA	TRB	True	True	True	True	True	True	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF	True	True	True	True	True	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF
+both_correct	AAACCTGGTCAGCTAT	TRB	True	True	True	True	True	True	TRBV14|TRBJ2-1|CASSQDYRRAPTYNEQFF	TRBV14|TRBJ2-1|CASSQDYRRAPTYNEQFF	True	True	True	True	True	TRBV14|TRBJ2-1|CASSQDYRRAPTYNEQFF
+trust4_correct_mixcr_no_result	AAACCTGCACCCATGG	TRB	True	True	True	True	True	True	TRBV28|TRBJ2-1|CASSFASAAPNEQFF	TRBV28|TRBJ2-1|CASSFASAAPNEQFF	False	False	False	False	False	
+trust4_correct_mixcr_no_result	AAACGGGGTGTTTGTG	TRB	True	True	True	True	True	True	TRBV7-2|TRBJ2-6|CASSSGQRSLGANVLTF	TRBV7-2|TRBJ2-6|CASSSGQRSLGANVLTF	False	False	False	False	False	
+trust4_correct_mixcr_no_result	AAACGGGGTTACGTCA	TRB	True	True	True	True	True	True	TRBV28|TRBJ2-1|CASSPRDYSQSYNEQFF	TRBV28|TRBJ2-1|CASSPRDYSQSYNEQFF	False	False	False	False	False	
+trust4_correct_mixcr_no_result	AAACGGGTCTCCTATA	TRB	True	True	True	True	True	True	TRBV28|TRBJ2-1|CASPPSTGSSYNEQFF	TRBV28|TRBJ2-1|CASPPSTGSSYNEQFF	False	False	False	False	False	
+trust4_correct_mixcr_no_result	AAAGATGAGAGTAAGG	TRB	True	True	True	True	True	True	TRBV20-1|TRBJ2-1|CSAGTDRANEQFF	TRBV20-1|TRBJ2-1|CSAGTDRANEQFF	False	False	False	False	False	
+mixcr_correct_trust4_no_result	AAAGATGAGGGATACC	TRA	True	False	False	False	False	False	TRAV40|TRAJ33|CLLGETMDSNYQLIW;TRAV9-2|TRAJ52|CALSDHAGGTSYGKLTF		True	True	True	True	True	TRAV9-2|TRAJ52|CALSDHAGGTSYGKLTF
+mixcr_correct_trust4_no_result	AAAGTAGAGCGATTCT	TRA	True	False	False	False	False	False	TRAV9-2|TRAJ53|CALNSGGSNYKLTF		True	True	True	True	True	TRAV9-2|TRAJ53|CALNSGGSNYKLTF
+mixcr_correct_trust4_no_result	ACAGCCGGTGAAAGAG	TRB	True	False	False	False	False	False	TRBV20-1|TRBJ2-1|CSASEGGEGNEQFF		True	True	True	True	True	TRBV20-1|TRBJ2-1|CSASEGGEGNEQFF
+mixcr_correct_trust4_no_result	ACCAGTACAACGATGG	TRA	True	False	False	False	False	False	TRAV9-2|TRAJ42|CALSPNYGGSQGNLIF		True	True	True	True	True	TRAV9-2|TRAJ42|CALSPNYGGSQGNLIF
+mixcr_correct_trust4_no_result	ACCGTAACAGCGAACA	TRA	True	False	False	False	False	False	TRAV20|TRAJ6|CAVQGTSGGSYIPTF		True	True	True	True	True	TRAV20|TRAJ6|CAVQGTSGGSYIPTF
+both_result_at_least_one_wrong	AAACCTGTCTTGGGTA	TRB	False	True	False	False	False	False		TRBV28|TRBJ1-1|CASSLVPNTEAFF	True	False	False	False	False	TRBV28|TRBJ1-1|CASSLVPNTEAFF
+both_result_at_least_one_wrong	AAAGATGCAGTCCTTC	TRA	False	True	False	False	False	False		TRAV1-1|TRAJ34|CAVMLLGNTDKLIF	True	False	False	False	False	TRAV1-1|TRAJ34|CAVMLLGNTDKLIF
+both_result_at_least_one_wrong	AAATGCCAGGTGACCA	TRA	True	True	True	True	True	True	TRAV5|TRAJ15|CAESNQAGTALIF	TRAV5|TRAJ15|CAESNQAGTALIF	True	False	False	True	False	TRAV3|TRAJ15|CAVR*YNQAGTALIF
+both_result_at_least_one_wrong	AACCGCGGTTTACTCT	TRA	False	True	False	False	False	False		TRAV9-2|TRAJ20|CALSDRLNDYKLSF	True	False	False	False	False	TRAV9-2|TRAJ20|CALSDRLNDYKLSF
+both_result_at_least_one_wrong	AACGTTGCACTCTGTC	TRA	True	True	True	False	True	False	TRAV23DV6|TRAJ58|CAATSGSRLTF	TRAV23/DV6|TRAJ58|CAATSGSRLTF	True	True	False	True	False	TRAV23/DV6|TRAJ58|CAATSGSRLTF
+TRA_TRB_performance_differs	AAACCTGAGCAGACTG	TRA	True	False	False	False	False	False	TRAV5|TRAJ10|CAEKDPGGGNKLTF		False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGAGCAGACTG	TRB	True	True	True	True	True	True	TRBV2|TRBJ2-2|CATTRDGVPTGELFF	TRBV2|TRBJ2-2|CATTRDGVPTGELFF	True	True	True	True	True	TRBV2|TRBJ2-2|CATTRDGVPTGELFF
+TRA_TRB_performance_differs	AAACCTGAGTTAAGTG	TRA	True	False	False	False	False	False	TRAV9-2|TRAJ48|CALSDFGNEKLTF		False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGAGTTAAGTG	TRB	True	True	True	True	True	True	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF	True	True	True	True	True	TRBV7-2|TRBJ1-1|CASSFQQGSGLAFF
+TRA_TRB_performance_differs	AAACCTGCAACACCCG	TRA	True	False	False	False	False	False	TRAV8-6|TRAJ54|CAVSDTQGAQKLVF		False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGCAACACCCG	TRB	True	True	True	True	True	True	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF	True	True	True	True	True	TRBV18|TRBJ1-1|CASSQQGRGKAEAFF
+TRA_TRB_performance_differs	AAACCTGCACCCATGG	TRA	True	False	False	False	False	False	TRAV14DV4|TRAJ41|CAMREGSPSLGGYALNF		False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGCACCCATGG	TRB	True	True	True	True	True	True	TRBV28|TRBJ2-1|CASSFASAAPNEQFF	TRBV28|TRBJ2-1|CASSFASAAPNEQFF	False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGGTAGCACGA	TRA	True	False	False	False	False	False	TRAV21|TRAJ58|CAVRPMETSGSRLTF		False	False	False	False	False	
+TRA_TRB_performance_differs	AAACCTGGTAGCACGA	TRB	True	True	True	True	True	True	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF	True	True	True	True	True	TRBV7-3|TRBJ2-3|CASSLMFGDTQYF

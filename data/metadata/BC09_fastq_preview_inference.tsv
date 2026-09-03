@@ -1,0 +1,15 @@
+property	value
+read_pairs_inspected	10000
+mate_id_mismatches	0
+r1_length_counts	27:10000
+r2_length_counts	99:10000
+r1_unique_first16	6304
+r1_unique_bases17_26	9745
+known_barcodes	6578
+best_16bp_barcode_window_1based	1
+best_barcode_window_hits	7694
+second_best_barcode_window_hits	7
+r1_tail_after_base26	A:323;C:241;G:242;T:9194
+r1_n_bases	25
+r2_n_bases	2950
+inference	R1=16bp_cell_barcode+10bp_UMI+1bp_non_UMI_tail;R2=cDNA

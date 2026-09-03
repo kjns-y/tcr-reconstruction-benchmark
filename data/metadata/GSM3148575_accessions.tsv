@@ -1,0 +1,5 @@
+gsm	title	experiment	run	spots	bases	size_MB	library_layout	platform	model	download_path
+GSM3148575	BC09_TUMOR1	SRX4108604	SRR7191896	45638026	5750391276	2189	PAIRED	ILLUMINA	NextSeq 500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191896.sralite.1
+GSM3148575	BC09_TUMOR1	SRX4108604	SRR7191897	44257249	5576413374	2089	PAIRED	ILLUMINA	NextSeq 500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191897.sralite.1
+GSM3148575	BC09_TUMOR1	SRX4108604	SRR7191898	42187575	5315634450	1983	PAIRED	ILLUMINA	NextSeq 500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191898.sralite.1
+GSM3148575	BC09_TUMOR1	SRX4108604	SRR7191899	44085092	5554721592	2096	PAIRED	ILLUMINA	NextSeq 500	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos12/sra-pub-zq-1214/SRR007/191/SRR7191899.sralite.1

@@ -1,0 +1,13 @@
+{
+  "cells_with_TRA": 5849,
+  "cells_with_TRB": 6402,
+  "number_of_TRA_receptors": 6523,
+  "number_of_TRB_receptors": 6864,
+  "number_of_cells": 6578,
+  "productive_receptors_per_cell_chain": {
+    "1": 11191,
+    "2": 991,
+    "3": 62,
+    "4": 7
+  }
+}

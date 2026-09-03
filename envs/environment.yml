@@ -1,0 +1,30 @@
+name: tcrbench
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scipy
+  # ART 2016.06.05 links against libgsl.so.25 (GSL 2.6 ABI).
+  - gsl=2.6
+  - matplotlib
+  - jupyterlab
+  - pyyaml
+  - tqdm
+  # 2.9.6 fails current NCBI TLS certificate verification; require a modern client.
+  # List ossuuid explicitly because the incremental libmamba solve did not discover it transitively.
+  - ossuuid
+  - sra-tools>=3.2
+  - seqkit
+  - pigz
+  - samtools
+  - art
+  - trust4
+  - pip
+  - pip:
+      # README advertises 1.0.1, but PyPI currently exposes only 0.1.0/1.0.0.
+      # Pin the authors' immutable tag without modifying repo/yasim-sctcr.
+      - git+https://github.com/WanluLiuLab/yasim-sctcr.git@1.0.1

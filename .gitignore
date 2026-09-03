@@ -1,0 +1,37 @@
+# Raw and derived sequencing data
+data/raw/
+data/processed/
+data/ground_truth/raw/
+
+# Large reconstruction outputs; retain results/benchmark and results/figures
+results/archive/
+results/trust4/
+results/mixcr/
+
+# Generated simulated reads; retain simulation/reference and simulation/truth
+simulation/depth_*/
+
+# Logs and runtime state
+logs/*
+!logs/.gitkeep
+*.log
+*.pid
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Common large sequencing and reconstruction artifacts
+*.sra
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vdjca
+*.clna
+*.clns
+
+!**/.gitkeep
